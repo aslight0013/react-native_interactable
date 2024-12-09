@@ -336,3 +336,6 @@ If you are interested in the project, have feedback or want to contribute don't 
 ## License
 
 MIT
+
+## owner
+Artur S
